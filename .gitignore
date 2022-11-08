@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+/.idea/jpa-buddy.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/reactclient-http-polling.iml
+/.idea/vcs.xml
